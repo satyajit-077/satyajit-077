@@ -80,47 +80,24 @@ Hello! I'm **Satyajit**, a passionate **Data Analyst & Data Scientist** based in
 
 ---
 
-### 📊 GitHub 3D Contributions
+### 🕹️ Pacman Contribution Graph
 
-Here is an interactive 3D representation of my GitHub contributions generated daily:
+Here is my GitHub contribution graph rendered as a Pacman game board:
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyajit-077/satyajit-077/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyajit-077/satyajit-077/main/profile-3d-contrib/profile-gitblock.svg">
-    <img alt="Satyajit's 3D GitHub Contributions" src="https://raw.githubusercontent.com/satyajit-077/satyajit-077/main/profile-3d-contrib/profile-green-animate.svg" width="85%">
-  </picture>
+  <img alt="Satyajit's Pacman Contribution Graph" src="https://raw.githubusercontent.com/satyajit-077/satyajit-077/output/pacman.svg" width="85%">
 </div>
 
 <br/>
 
 ---
 
-### ⚡ GitHub Statistics
+### ⚡ GitHub Streak
 
 <div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/satyajit-077">
-        <img src="https://github-readme-stats.vercel.app/api?username=satyajit-077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyajit's GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/satyajit-077">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-077&layout=compact&theme=tokyonight&hide_border=true" alt="Satyajit's Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/satyajit-077">
-  <img src="https://streak-stats.demolab.com?user=satyajit-077&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
+  <a href="https://github.com/satyajit-077">
+    <img src="https://streak-stats.demolab.com?user=satyajit-077&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
